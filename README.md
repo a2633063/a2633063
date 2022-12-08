@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 |          [zMOPS](https://github.com/a2633063/zMOPS)          | [固件下载](https://github.com/a2633063/zMOPS/releases/latest) | [固件备用下载](https://gitee.com/a2633063/zMOPS/releases)  |
 |          [zRGBW](https://github.com/a2633063/zRGBW)          | [固件下载](https://github.com/a2633063/zRGBW/releases/latest) | [固件备用下载](https://gitee.com/a2633063/zRGBW/releases)  |
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
